@@ -1,0 +1,13 @@
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.dll.config
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.pdb
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.dll
+F:\Youtube Channel\Dotnet Mob\asp.net tutorial\login page\project\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.pdb
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.dll.config
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.dll
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\bin\asp.netloginpage.pdb
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.csprojAssemblyReference.cache
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.dll
+C:\Users\harry\Desktop\year 3\enterprise\asp.netloginpage\asp.netloginpage\asp.netloginpage\obj\Debug\asp.netloginpage.pdb
