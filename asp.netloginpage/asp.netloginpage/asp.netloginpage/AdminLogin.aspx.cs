@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -9,7 +11,7 @@ using System.Data;
 
 namespace asp.netloginpage
 {
-    public partial class Login : System.Web.UI.Page
+    public partial class AdminLogin : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -23,7 +25,7 @@ namespace asp.netloginpage
                 sqlCon.Open();
                 string query = "SELECT COUNT(1) FROM tblUser WHERE username=@username AND password=@password";
                 SqlCommand sqlCmd = new SqlCommand(query, sqlCon);
-                sqlCmd.Parameters.AddWithValue("@username",txtUserName.Text.Trim());
+                sqlCmd.Parameters.AddWithValue("@username", txtUserName.Text.Trim());
                 sqlCmd.Parameters.AddWithValue("@password", txtPassword.Text.Trim());
                 int count = Convert.ToInt32(sqlCmd.ExecuteScalar());
                 if (count == 1)
